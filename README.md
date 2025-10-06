@@ -1,2 +1,2 @@
-#Özgeçmiş web sayfası
+# Özgeçmiş web sayfası
 Özgeçmiş bir web sayfası olarak hazırlandı
